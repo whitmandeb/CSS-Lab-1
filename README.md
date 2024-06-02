@@ -1,6 +1,12 @@
+# Style with CSS - Lab 1
+
+## About
+
 You will learn about how to apply styles to your HTML with CSS.
 
 You will start with an HTML document that needs style. There are several ways to add style, and we will explore two of them here: inline style and internal style sheets.
+
+## Instructions
 
 **Internal style sheets: getting started with style** You will simply add a style rule to each of the style attributes you find in the elements on the page.
 
@@ -26,13 +32,31 @@ You will start with an HTML document that needs style. There are several ways to
 
 6. Go to w3schools and research how to make borders on your tables. You may use inline styles or CSS rules in the STYLE tag.
 
-**CSS classes:** Classes are an important part of the professional use of CSS. It is a powerful way to encapulate the rules you need for a type of custom element and apply them anywhere with ease and efficiency. Exlpore using a class I called paragraph-1 and see what you can discover.
+**CSS classes:** Classes are an important part of the professional use of CSS. It is a powerful way to encapulate the rules you need for a type of custom element and apply them anywhere with ease and efficiency. Look at the example class I called paragraph-1 and see what you can discover.
 
-7. For the element with the id for .paragraph-1, and margin and padding. What do you notice about the pink background? Does it change when you add margin? Does it change when you add padding? Add a class to one of your own elements on your page. Create a rule set for that element in the style tag in the head.
+7. For the element with the class for .paragraph-1, add margin and padding. What do you notice about the pink background? Does it change when you add margin? Does it change when you add padding? Add a class to one of your own elements on your page. Create a rule set for that element in the style tag in the head.
 
 **Room for creativity:** It's important to know how to get more information on your own. Go on w3schools and find something that interests you!
 
 9. Go to w3schools and find something new you haven't used yet.
+
+## Roadmap
+
+- [x] Create index.html with paragraphs and other tags
+- [ ] Add CSS rules to each of the style attributes on the page
+- [ ] Create an HTML list and add style rules for it
+- [ ] Style h1, h2, p, em and others with interal CSS
+- [ ] Style header, main and footer
+- [ ] Style a table with borders
+- [ ] Style an element with a class
+- [ ] Create your own class and apply it to an element
+
+
+## Contact
+
+Author: robert.mccreary@codex.academy
+
+## Bonus and Extension
 
 * BONUS: Change the content of this page  to something you like (super cars, knitting, Donkey Kong). Add one or two more pages (they may be called GALLERY and ABOUT) and style them with CSS. (You might want to move the NAV element to the top.)
 
